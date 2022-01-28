@@ -1,4 +1,4 @@
-<audio src="picture/raining_kenting.mp3" controls="controls" autoplay loop></audio>
+<audio src="raining_kenting.mp3" controls="controls" autoplay loop></audio>
 
 <br />
 <br />
