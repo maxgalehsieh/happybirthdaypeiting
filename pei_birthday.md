@@ -68,14 +68,26 @@
 <br />
 
 ##### 哈囉墾丁
-<img src="picture/kenting_wedding.jpg" width="40%"/>
+<img src="picture/kenting_wedding1.jpg" width="40%"/>
+
+#####
+<img src="picture/kenting_flower.jpg" width="40%"/>
+
 <br />
 <br />
-感謝妳讓我在這個年紀可以真的開始真誠坦白的認真面對自己，過生活。當認真討論夫妻分別財產制時，反而更篤定比以往任何時刻都認真地面對婚姻，當然偶爾大小吵，但我會真摯並努力的經營我們的感情及婚姻，常常保有戀愛的感覺，也謝謝妳很努力的的包容調整磨合。
+感謝妳讓我在這個年紀可以真的開始真誠坦白的認真面對自己，過生活。當討論夫妻分別財產制時，反而更篤定比以往任何時刻都認真地面對婚姻，當然偶爾大小吵，但我會真摯並努力的經營我們的感情及婚姻，常常保有戀愛的感覺，也謝謝妳很努力的的包容調整磨合。謝謝妳愛我。
 <br />
 <br />
 
-<img src="picture/bali.jpg" width="40%" alt="[3]"/>
+##### 好年輕的我們
+<img src="picture/so_young.jpg" width="40%"/>
+
+##### Hey, Let's Marry
+<img src="picture/lets_marry.jpg" width="40%"/>
+
+##### 婚紗照當然也要墾丁一下
+<img src="picture/kenting_wedding2.jpg" width="40%"/>
+
 <br />
 <br />
 感謝兒子女兒努力做好自己，讓我們學習做父母，更讓我不停的內省，探索自己內心，並且成長。
@@ -84,6 +96,9 @@
 
 ##### 有人慢一拍
 <img src="picture/jump1.jpg" width="30%"/><img src="picture/jump2.jpg" width="30%"/>
+
+##### 中間那位...
+<img src="picture/jump3.jpg" width="30%"/><img src="picture/jump4.jpg" width="30%"/>
 
 ##### 很愛的全家福照片
 <img src="picture/family2.jpg" width="40%"/>
@@ -105,7 +120,7 @@
 <br />
 對了，最喜歡妳眼睛笑起來瞇瞇的。
 
-老婆我愛妳，生日快樂 。
+## 老婆我愛妳，生日快樂 。
 ---
 
 ### 愛妳的老公 謝一弘
