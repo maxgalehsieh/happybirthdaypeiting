@@ -23,9 +23,9 @@
 ### 20220129
 
 --- 
-<audio src="raining_kenting.mp3" controls="controls">
-	Your browser does not support the audio element.
-</audio>
+<br />
+<audio src="raining_kenting.mp3" controls="controls" autoplay loop></audio>
+<br />
 
 ### 下雨的墾丁
 ##### 我聽了你的歌　看了你的眼睛
