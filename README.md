@@ -6,7 +6,7 @@
 
 - pei_birthday.html : markdown output pei_birthday.md to pei_birthday.html
 
-- qrcode.png : QR code for scanning and previewing
+- qrcode_preview.png : QR code for scanning and previewing
 
 - picture : pictures for presentation (.md, .html, ...)
 
