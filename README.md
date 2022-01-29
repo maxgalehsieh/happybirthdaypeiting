@@ -6,9 +6,7 @@
 
 - pei_birthday.html : markdown output pei_birthday.md to pei_birthday.html
 
-- qrcode_preview.png : QR code for scanning and previewing
-
-- picture : pictures for presentation (.md, .html, ...)
+- picture : forder to put pictures for presentation (.md, .html, ...)
 
 - raining_kenting.mp3 : song embedded in html
 
